@@ -1,7 +1,3 @@
 This is the first line
 This is the second line
-<<<<<<< HEAD
 this is the third line
-=======
-this is the third line
->>>>>>> 1cf73a79e52ef6035d54dd73012483e6c2315527
